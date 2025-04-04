@@ -6,7 +6,7 @@
 ### 💼 What I Can Do  
 - **Frontend**: HTML, CSS, JavaScript, React, Responsive Design  
 - **Backend**: Node.js, Java, Database Integration  
-- **Other Skills**: Git, Agile Development, Problem-Solving
+- **Other Skills**: Git, Problem-Solving
 ### 💬 Let’s Collaborate!  
 - I’m looking to contribute to **open-source projects** or collaborate on **exciting web development opportunities**.  
 ###📫 How to reach me:
