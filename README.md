@@ -12,5 +12,4 @@
 ###📫 How to reach me:
 - Email: ihanisha57@gmail.com
 - LinkedIn: www.linkedin.com/in/inapudi-hanisha.  
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love turning complex ideas into simple, user-friendly web designs with efficient code!
